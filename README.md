@@ -1,5 +1,5 @@
 # Flutter FireBase
-Flutter Login & Signup Authentication FireBase with Custom Validation
+Flutter Login & Signup Authentication using FireBase with Custom Validation
 ## Preview
 will publish soon!
 ## Links
